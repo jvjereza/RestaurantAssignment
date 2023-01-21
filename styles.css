@@ -44,7 +44,7 @@ html {
 nav ul li {
   list-style-type: none;
   display: inline;
-  padding: 60px 80px;
+  padding: 50px;
 }
 
 nav ul li a {
@@ -52,7 +52,6 @@ nav ul li a {
   font-weight: bold;
   font-size: 24px;
   color: black;
-  text-transform: capitalize;
   transition: 0.3s;
 }
 nav ul li a:hover {
